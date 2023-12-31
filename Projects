@@ -1,1 +1,45 @@
-https://chat.openai.com/g/g-MRofKWWfK-prince2-7-assistant
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <title>Projects - Marc Hatton</title>
+</head>
+<body>
+    <nav class="container-fluid">
+        <ul>
+            <li><strong>Projects - Marc Hatton</strong></li>
+        </ul>
+        <ul>
+            <li><a href="./index.html">Home</a></li>
+        </ul>
+    </nav>
+    <main class="container">
+        <div class="grid">
+            <section class="grid-item">
+                <h2>Project 1</h2>
+                <p>Description of Project 1. Details about the project's objectives, technologies used, and notable achievements.</p>
+            </section>
+            <section class="grid-item">
+                <h2>Project 2</h2>
+                <p>Description of Project 2. Highlights of what makes this project unique, including challenges and solutions.</p>
+            </section>
+        </div>
+        <div class="grid">
+            <section class="grid-item">
+                <h2>Project 3</h2>
+                <p>Description of Project 3. Elaboration on the project's scope, role, impact, and success metrics.</p>
+            </section>
+            <section class="grid-item">
+                <h2>Project 4</h2>
+                <p>Description of Project 4. Focus on collaborative aspects, lessons learned, and future directions.</p>
+            </section>
+        </div>
+    </main>
+    <footer class="container">
+        <small>© Marc Hatton</small>
+    </footer>
+</body>
+</html>
+
