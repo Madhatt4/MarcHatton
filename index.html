@@ -36,17 +36,14 @@
             </section>
         </div>
     </main>
-    <section aria-label="Subscribe example">
+     <section aria-label="Subscribe example">
         <div class="container">
             <article>
-                <hgroup>
-                    <h2>Stay Updated</h2>
-                    <h3>Subscribe for Updates</h3>
-                </hgroup>
-                <form class="grid">
+                <!-- ... other article content ... -->
+                <form class="grid" action="https://formspree.io/f/xwkgklkq" method="POST">
                     <input type="text" id="firstname" name="firstname" placeholder="First Name" aria-label="First Name" required />
                     <input type="email" id="email" name="email" placeholder="Email" aria-label="Email" required />
-                    <button type="submit" onclick="event.preventDefault()">Subscribe</button>
+                    <button type="submit">Subscribe</button>
                 </form>
             </article>
         </div>
